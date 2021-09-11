@@ -22,4 +22,10 @@
 
      set-ExecutionPolicy -ExecutionPolicy Unrestricted
 
+>Status code
+
+    200  ok
+    201 Updated successfully
+    400 Bad request or client side error
+    500 Internal server error
   
